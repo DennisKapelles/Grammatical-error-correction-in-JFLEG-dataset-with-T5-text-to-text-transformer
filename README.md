@@ -13,7 +13,8 @@ This project presents a deep learning system for **automated grammatical error c
 
 This work has been **submitted for presentation at COLING 2025** (International Conference on Computational Linguistics):
 
-> **Title**: Finetuning LLMs for Grammatical Error Correction in English and Greek Texts 
+> **Title**: Finetuning LLMs for Grammatical Error Correction in English and Greek Texts
+
 > **Authors**: *Dionysios Kapelles*
 
 ---
@@ -33,7 +34,7 @@ Grammatical Error Correction (GEC) involves the automatic correction of various 
 
 ## 🧪 Datasets
 
-- **English**: [JFLEG Corpus]([https://github.com/napoles-j/jfleg](https://huggingface.co/datasets/jhu-clsp/jfleg))
+- **English**: [JFLEG Corpus](https://huggingface.co/datasets/jhu-clsp/jfleg)
 - **Greek**: Custom-crafted datasets with realistic grammatical errors (e.g., accent errors, dropped final "n", etc.).
 
 ---
